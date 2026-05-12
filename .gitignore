@@ -1,0 +1,6 @@
+node_modules/
+.env
+credentials.json
+token.json
+processed.json
+quotes/
